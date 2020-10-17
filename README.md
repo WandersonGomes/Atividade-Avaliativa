@@ -13,10 +13,26 @@ mingw 32x 64x --> https://megalink.dl.sourceforge.net/project/mingw-w64/Toolchai
                              WANDERSON GOMES DA COSTA
                                 WHESLEY DE SOUSA LIMA
 
-Essa atividade será composta por questões que deverão ser resolvidas em equipe.
+:RECOMENDAÇÕES:
+Recomenda-se a utilização da IDE VSCode para a resolução das atividades relacionadas a disciplina.
 
-Os arquivos deverão ser encaminhados compactados, com exceção do relatório .pdf que conterá uma descrição do que cada membro da equipe fez/contribuiu.
+Nos arquivos do código-fonte insira os dados como no exemplo abaixo, para identificação.
+/*                       
+* IFCE - Instituto Federal do Ceará - Campus Tianguá-CE
+* Nome: Xxxxxx  xx Xxxx  Xxxxxx
+* Disciplina: Linguagem de Programação - I
+* 2º Semestre (Bacharelado em Ciência da Computação) - 2020.2
+*            Questão 01 - Elabore um algoritmo que some dois valores inteiros e exiba o resultado
+*/
 
-Lembrando que para conferência de pontos do trabalho em equipe será considerado:
+TODAS AS QUESTÕES Devem ser resolvidas utilizando a linguagem C, 
 
-Funcionamento da questão, correta aplicação dos assuntos estudados, não precisa utilizar-se de testes de validação no momento.
+ATENÇÃO: Os projetos do VSCode devem ser salvos com a extensão .c. Por exemplo: questa01.c
+
+Para melhor organização inserir o arquivo da questão em uma pasta e compactá-la com o nome questao acompanhado do número da mesma. Por exemplo: questao01.zip.
+
+Atentar-se para satisfazer todas as exigências específicas de cada questão. 
+
+TODAS AS QUESTÕES devem ser funcionais.
+ 
+Somente UM membro da equipe deverá ENVIAR (fazer o upload) as questões do trabalho através desse formulário para evitar ARQUIVOS DUPLICADOS.
