@@ -2,7 +2,7 @@
 Tutorial para instalar vscode(vsraiva) caso dificuldades 
 ----->https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557
 
-mingw 32x 64x --> https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v8.0.0.zip/download
+mingw 32x 64x --> https://megalink.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe
 
 
                                         EQUIPE 05
